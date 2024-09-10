@@ -42,7 +42,7 @@ const container = {
 const Benefits = ({ setSelectedPage }: Props) => {
     return (
         <section
-            id={`#${SelectedPage.Benefits}`}
+            id={SelectedPage.Benefits}
             className="mx-auto min-h-full w-5/6 py-20"
         >
 
